@@ -34,7 +34,7 @@ def my_hash_creator(key, value)
 my_hash_creator  = {
 key=>value
 }
-my_hash_creator 
+my_hash_creator
 end
 #The first parameter is a hash, the second is a key.
 #Used together, they will either produce a value on that hash corresponding to the key,
