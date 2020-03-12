@@ -31,10 +31,10 @@ end
 #create and return a hash with one key/value pair,
 #using the first parameter as the key, and the second parameter as the value.
 def my_hash_creator(key, value)
-my_hash = {
+my_hash_creator  = {
 key=>value
 }
-my_hash
+my_hash_creator 
 end
 #The first parameter is a hash, the second is a key.
 #Used together, they will either produce a value on that hash corresponding to the key,
